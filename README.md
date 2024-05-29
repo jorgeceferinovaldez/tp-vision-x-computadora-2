@@ -7,7 +7,7 @@
 
 ## Integrantes:
    - Josselyn Ordoñez 
-   - Natanel Ferrán
+   - Natanael Ferrán
    - Jorge Valdez
 
 
