@@ -5,6 +5,7 @@ install:
 		pip install -qU pip; \
 		pip install -r requirements.txt; \
 	)
+	@mkdir -p output
 
 # Limpia el proyecto (elimina el entorno virtual)
 clean:
