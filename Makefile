@@ -11,3 +11,5 @@ install:
 clean:
 	@echo "Limpiando el proyecto..."
 	@rm -rf .venv
+	@rm -rf output
+	@rm -rf data
