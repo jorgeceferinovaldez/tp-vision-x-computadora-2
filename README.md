@@ -30,13 +30,13 @@
 - Auto orientación: aplicada.
 - Cambio de tamaño: escalado a 416x416
 
-3. Modificaciones:
+3. Las siguientes aumentaciones se aplicaron para crear 3 versiones de cada imagen fuente:
 
-- Resultados por ejemplo de entrenamiento: 3
-- Voltear: Horizontal, Vertical
-- Rotación de 90°: en el sentido de las agujas del reloj, en el sentido contrario a las agujas del reloj, al revés
-- Corte: ±15° horizontal, ±15° vertical
-- Exposición: Entre -8% y +8%
+- 50% de probabilidad de voltear horizontalmente
+- 50% de probabilidad de voltear verticalmente
+- Probabilidad igual de una de las siguientes rotaciones de 90 grados: ninguna, en el sentido de las agujas del reloj, en sentido antihorario, al revés
+- Sesgo aleatorio entre -15° a +15° horizontalmente y -15° a +15° verticalmente
+- Ajuste aleatorio de la exposición entre -8% y +8%
 
 # 2. Criterios de aprobación
 
